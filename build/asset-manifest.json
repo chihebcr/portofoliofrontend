@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.942fb6e9.css",
+    "main.js": "/static/js/main.68750cd6.js",
+    "static/js/787.b9287c69.chunk.js": "/static/js/787.b9287c69.chunk.js",
+    "static/media/wal.webp": "/static/media/wal.f771aede7e97b0eb3e70.webp",
+    "static/media/LOGO.webp": "/static/media/LOGO.092827bb8176db8db0df.webp",
+    "index.html": "/index.html",
+    "static/media/telegram.webp": "/static/media/telegram.08e8329fe45006d2e4b1.webp",
+    "static/media/telephone.webp": "/static/media/telephone.64b7042dcc6f10fd8c85.webp",
+    "static/media/upwork.webp": "/static/media/upwork.c85d877ac06528deb262.webp",
+    "static/media/mail.webp": "/static/media/mail.83caf383388a96ed610a.webp",
+    "static/media/github.webp": "/static/media/github.2eb322d82e4ed2cfabeb.webp",
+    "static/media/icon.webp": "/static/media/icon.e2da438fad9aecd29f01.webp",
+    "main.942fb6e9.css.map": "/static/css/main.942fb6e9.css.map",
+    "main.68750cd6.js.map": "/static/js/main.68750cd6.js.map",
+    "787.b9287c69.chunk.js.map": "/static/js/787.b9287c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942fb6e9.css",
+    "static/js/main.68750cd6.js"
+  ]
+}
