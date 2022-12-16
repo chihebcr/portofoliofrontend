@@ -1,0 +1,32 @@
+body{
+  background-color: #231955;
+};
+.navbar{
+  background-color: #231955;
+  position: sticky;
+}
+.navbar-nav{
+  position: absolute;
+  left: 550px;
+}
+#lin{
+  padding: 30px;
+  font-size: 20px;
+  color:#E8AA42;
+}
+.logo{
+  width: 200px;
+  margin-left: 35px;
+  margin: -50px;
+}
+#about{
+  position: absolute;
+  top: 800px;
+}
+#service{
+  position: absolute;
+  top: 1600px;}
+#contact{
+  position: absolute;
+  top:2500px;
+}

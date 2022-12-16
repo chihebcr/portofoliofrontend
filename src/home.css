@@ -1,0 +1,34 @@
+p{
+    color:hsl(38, 78%, 58%);
+    font-size: 70px;
+    font-family: Georgia;
+}
+#home{
+    margin-top: 155px;
+}
+span{
+    color:hsl(38, 78%, 58%);
+    font-size: 30px;
+    margin-left: 20px;
+    left: 20px;
+}
+i{
+    color:hsl(38, 78%, 58%) ;
+    font-size: 30px;
+    margin-top: 15px;
+}
+.icon1{
+    position: absolute;
+    left: 55px;
+}
+.img1{
+    position: absolute;
+    left: 650px;
+    top: 210px;
+    width: 500px;
+}
+.ll{
+    position: absolute;
+    left: 100px;
+    
+}

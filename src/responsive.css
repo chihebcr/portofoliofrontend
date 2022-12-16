@@ -1,0 +1,119 @@
+@media only screen and (max-width:600px) {
+    body{
+        margin: 0px;
+    }
+    /*#home */
+    .img1{
+        display: none;
+    }
+    .ll p{
+        font-size: 30px;
+    }
+    .ll span {
+        font-size: 25px;
+        margin-left: -20px;
+    }
+    .ll{
+        margin-left: 30px;
+        width: 200px;
+        margin-left: 0px;
+    }
+    .icon1{
+        display: none;
+    }
+    /*about */
+    #about{
+        margin-top: -300px;
+    }
+    .abouttitle{
+        margin-left: 100px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    #txtdiv span{
+        font-size: 20px;
+    }
+    .body{
+        width:300px;
+        position: absolute;
+        top: 400px;
+        left: 30px;
+    }
+    .body .clm{
+        font-size: 30px;
+        
+        
+    }
+    .body .title{
+        font-size: 20px;
+    }
+    .skills{
+        margin-top: 100px;
+    }
+    /*service*/
+    #service{
+        position: absolute;
+        top: 1500px;
+    }
+    #title3{
+        font-size: 30px;
+
+    }
+    .on{
+        width: 50px;;
+        margin-left: 5px;
+        
+    }
+    .on h3{
+        font-size: 15px;
+        margin-left: -10px;
+    }
+    .on span{
+        font-size: 10px;
+        margin-left: -8px;
+    }
+    .on4{
+        
+        margin-left: 5px;
+    }
+    /*contact*/
+    #contact{
+        position: absolute;
+        top: 2400px;
+        left: 0px;
+        width: 100%;
+        
+    }
+    .title4{
+        font-size: 30px;
+    
+    }
+    .iconse{
+        position: absolute;
+        left: 10px;
+        
+       
+    }
+    /*Footer*/
+    .footer{
+        width: 100%;
+    }
+    .logo2{
+        margin-left: -480px;
+        width: 20px;
+    }
+    .linkdiv{
+        margin-left: -400px;
+        
+    }
+    .link5{
+        font-size: 18px;
+    }
+    .icondiv{
+        margin-left: 60px;
+
+    }
+    .icondiv #icoan{
+        width: 50px;
+    }
+}

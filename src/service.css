@@ -1,0 +1,60 @@
+.on{
+    background-color:#194491;
+    height: 455px;
+    margin-left:150px ;
+    text-align: center;
+    color:#e9ac40;
+    margin-top: 155px;
+    /* Rectangle 6 */
+
+
+    width: 180px;
+
+
+
+}
+#service{
+    height: 800px;
+}
+#title3{
+    margin-top: 50px;
+    font-weight: 700;
+    font-size:40px;;
+    padding-left: 15px;
+    color: #e9ac40;
+}
+
+.continer{
+    width: 100%;
+    position: absolute;
+    left: 355px;
+    
+}
+.on1{
+    top: 150px;
+    left: 200px;
+    position: absolute;
+    margin-left: 550px;
+}
+.on2{
+    top: 150px;
+    left: 300px;
+    position: absolute;
+    margin-left: 700px;
+}
+.on3{
+    position: absolute;
+    left:100px ;
+    margin-left: 400px;
+}
+.on4{
+    margin-left:180px;
+}
+.on span{
+    margin-top: 155px;
+    margin-left: -5px;
+}
+.on h3{
+    padding: 15px;
+    margin-left: 45px;
+}
